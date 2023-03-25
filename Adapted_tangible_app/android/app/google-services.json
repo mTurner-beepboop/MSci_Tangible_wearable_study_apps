@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867504831617",
+    "project_id": "t2fa-usability-followup",
+    "storage_bucket": "t2fa-usability-followup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867504831617:android:427aa768dd5b27a608e180",
+        "android_client_info": {
+          "package_name": "com.siriusresearchlab.turner.t2fa_usability_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867504831617-7vntih65ur8i9f88854h95sl09cjqm01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABk6NnqKtf6xmlwkf66ph0phcoAD5RAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867504831617-7vntih65ur8i9f88854h95sl09cjqm01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
